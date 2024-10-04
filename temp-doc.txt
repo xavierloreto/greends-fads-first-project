@@ -1,0 +1,8 @@
+5.1 o copy (co ../temp-* .) serve para copiar todos os arquivos do diretório principal que começam por temp para o diretório onde estiver de momento.
+
+
+5.2 Não foi preciso usar o comando git init porque o repositório já tinha sido clonado. Quando fiz git clone, o git cria de forma automática a estrutura necessária que contém todas as informações do repositório.
+
+
+5.3 sim, adicionando os arquivos com git add, depois criar um commit com uma mensagem de mostre a alteração, usando o git commit e por fim enviar as mudanças para o repositório remoto no GitHub, através do git push.
+
